@@ -11,7 +11,8 @@ $perguntas = array(
         "resposta_correcta" => 2),
     array(
         "pergunta" => "De quem é a famosa frase \"Penso, logo existo\"?",
-        "respostas" => array("Platão",
+        "respostas" => array(
+            "Platão",
             "Galileu Galilei",
             "Descartes",
             "Sócrates",
@@ -19,7 +20,8 @@ $perguntas = array(
         "resposta_correcta" => 3),
     array(
         "pergunta" => "De onde é a invenção do chuveiro elétrico?",
-        "respostas" => array("França",
+        "respostas" => array(
+            "França",
             "Inglaterra",
             "Brasil",
             "Austrália",
@@ -27,7 +29,8 @@ $perguntas = array(
         "resposta_correcta" => 3),
     array(
         "pergunta" => "Quais o menor e o maior país do mundo?",
-        "respostas" => array("Vaticano e Rússia",
+        "respostas" => array(
+            "Vaticano e Rússia",
             "Nauru e China",
             "Mónaco e Canadá",
             "Malta e Estados Unidos",
@@ -35,18 +38,21 @@ $perguntas = array(
         "resposta_correcta" => 1),
     array(
         "pergunta" => "Quem pintou \"Guernica\"?",
-        "respostas" => array("Pablo Picasso",
+        "respostas" => array(
+            "Paul Cézanne",
+            "Pablo Picasso",
             "Diego Rivera",
             "Tarsila do Amaral",
             "Salvador Dalí"),
         "resposta_correcta" => 2),
     array(
         "pergunta" => "Quanto tempo a luz do Sol demora para chegar à Terra?",
-        "respostas" => array("12 minutos",
+        "respostas" => array(
+            "12 minutos",
             "1 dia",
             "12 horas",
             "8 minutos",
-            "segundos"),
+            "8 segundos"),
         "resposta_correcta" => 4));
 
 

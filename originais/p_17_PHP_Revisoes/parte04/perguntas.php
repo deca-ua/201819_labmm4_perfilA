@@ -27,7 +27,8 @@ $respostas = array(
     "Nauru e China",
     "Mónaco e Canadá",
     "Malta e Estados Unidos",
-    "São Marino e Índia", "Paul Cézanne",
+    "São Marino e Índia",
+    "Paul Cézanne",
     "Pablo Picasso",
     "Diego Rivera",
     "Tarsila do Amaral",
@@ -36,5 +37,5 @@ $respostas = array(
     "1 dia",
     "12 horas",
     "8 minutos",
-    "segundos");
+    "8 segundos");
 $respostas_corretas = array(2, 3, 3, 1, 2, 4);
