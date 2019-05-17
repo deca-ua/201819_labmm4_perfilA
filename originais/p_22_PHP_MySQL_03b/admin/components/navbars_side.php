@@ -1,6 +1,6 @@
 <?php
 // Verificação de credenciais de acesso à área de administração
-include_once "../scripts/check_admin.php";
+require_once "../scripts/check_admin.php";
 ?>
 
 <!-- Sidebar -->
